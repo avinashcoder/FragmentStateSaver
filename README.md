@@ -6,7 +6,7 @@ An Android library that holds fragment states. The fragment will be created only
 
 ## Installation
 
-Add Jitpack to project level gradle file
+Add Jitpack to project level gradle file     [![](https://jitpack.io/v/avinashcoder/FragmentStateSaver.svg)](https://jitpack.io/#avinashcoder/FragmentStateSaver)
 
 ```
 allprojects {
