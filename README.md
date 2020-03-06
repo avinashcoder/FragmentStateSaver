@@ -57,8 +57,13 @@ protected void onCreate(Bundle savedInstanceState) {
 
 To switch or change the current fragment call like this
 ```
-fragmentStateSaver.changeFragment(0);
+fragmentStateSaver.changeFragment(0); // 0 is the index of the fragment, fragment will not create if its already created
 
+```
+If you want to reload or recreate the life cycle of fragment then you can do like this
+```
+fragmentStateSaver.removeFragment(position);
+fragmentStateSaver.changeFragment(position); 
 ```
 
 ## Integration with BottomNavigationView
