@@ -22,6 +22,7 @@ dependencies {
 	implementation 'com.github.avinashcoder:FragmentStateSaver:1.0.0'
 }
 ```
+![ezgif com-resize](https://user-images.githubusercontent.com/34886720/76087019-54003e00-5fdb-11ea-9c03-77b1a49c393a.gif)
 
 ## Usage
 
