@@ -1,0 +1,3 @@
+rootProject.name='FragmentStateSaver'
+include ':app'
+include ':app:library'
